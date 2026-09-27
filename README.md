@@ -1,0 +1,2 @@
+# OIPSIP_Graphics-Design-Task-3-Business-Card-Design
+Business card design created for Oipsip Task-3, for the LOOP brand. The front features a bold, blue background with the loop logo, name Maya Renner, and title Head of Product in clean, white text. The back lists phone, email, website, and social links on a clean, white background. Designed in Figma, with a minimal, consistent brand identity design.
